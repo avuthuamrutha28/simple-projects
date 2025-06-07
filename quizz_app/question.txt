@@ -1,0 +1,39 @@
+#1
+What is the superclass for every class in Java?
+String
+Object
+Math
+System
+Ans:2
+
+#2
+Which of the following is not a java.lang.String class method?
+trim
+length
+reverse
+split
+Ans:3
+
+#3
+What is the output of 10 >> 1?
+10
+5
+20
+1
+Ans:2
+
+#4
+Which of the following is not true about Java?
+Platform Independent
+Uses Byte code
+When compiled generates .exe file
+Java has interfaces
+Ans:3
+
+#5
+Which of the following is not a valid data type in Java?
+int
+byte
+short
+array
+Ans:4
